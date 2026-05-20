@@ -24,5 +24,5 @@ To run this project locally and reproduce the results, please follow the instruc
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
+   git clone [https://github.com/mertdurdu/breast-cancer-diagnosis-system.git](https://github.com/mertdurdu/breast-cancer-diagnosis-system.git)
+   cd breast-cancer-diagnosis-system
